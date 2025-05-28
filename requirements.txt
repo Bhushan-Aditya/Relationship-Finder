@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+networkx
+# For LLM integration (optional, uncomment as needed):
+# transformers
+# torch
+python run_tests.py
